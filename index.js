@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["discord.gg/brawlparadise","JOIN NOW!","Tabal loves Ino <:Peepo_UwU:1247299495276970045>"];
 
 
 let currentIndex = 0;
